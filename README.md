@@ -1,4 +1,4 @@
 DigitalReceiver
 ===============
 
-Python 2.7-based GNU/Radio app which collects and plots data samples
+Python 2.7 GNU/Radio-based script which collects and plots data samples
